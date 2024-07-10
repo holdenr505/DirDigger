@@ -4,11 +4,10 @@ DirDigger is a command-line tool developed entirely in Python 3 that uses a brut
 1. Multithreading support allows the user to specify the number of threads (up to 64) used
 2. File extensions can be supplied at the command line to perform additional searches
 3. Recursion (WIP)
-## Getting Started
-As this is solely a Python3 project with no external libraries, Python3 is the only prerequisite for using the application
+
 ### Installation
 1. Clone the repo
-2. Run the program!
+2. Run the program
 ```
 git clone https://github.com/holdenr505/DirDigger
 ```
